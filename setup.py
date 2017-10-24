@@ -6,8 +6,8 @@ setup(
   description = 'A random test lib',
   author = 'Andreas Winther Lykke',
   author_email = 'andreas.winther.lykke@gmail.com',
-  url = 'https://github.com/peterldowns/mypackage', # use the URL to the github repo
-  download_url = 'https://github.com/peterldowns/mypackage/archive/0.1.tar.gz', # I'll explain this in a second
+  url = 'https://github.com/awl89/pycli', # use the URL to the github repo
+  download_url = 'https://github.com/awl89/pycli/archive/0.1.tar.gz', # I'll explain this in a second
   keywords = ['testing', 'logging', 'example'], # arbitrary keywords
   classifiers = [],
 )
